@@ -3,7 +3,7 @@ package application.android.spotsoondemo;
 import com.google.gson.annotations.SerializedName;
 
 /**
- * Created by boobeshb on 7/20/2017.
+ * Created by avinashs on 7/20/2017.
  */
 
 public class CountryListArray {

@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * Created by boobeshb on 7/19/2017.
+ * Created by avinashs on 7/19/2017.
  */
 
 public class Layout2 extends Fragment {

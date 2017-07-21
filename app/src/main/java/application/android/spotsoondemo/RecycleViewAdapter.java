@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by boobeshb on 7/20/2017.
+ * Created by avinashs on 7/20/2017.
  */
 
 public class RecycleViewAdapter extends RecyclerView.Adapter<ViewHolderAdapter> {
