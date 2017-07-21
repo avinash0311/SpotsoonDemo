@@ -8,7 +8,7 @@ import retrofit2.Call;
 import retrofit2.http.GET;
 
 /**
- * Created by boobeshb on 7/20/2017.
+ * Created by avinashs on 7/20/2017.
  */
 
 public interface ApiService {
